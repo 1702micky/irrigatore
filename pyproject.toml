@@ -1,0 +1,13 @@
+
+[tool.poetry]
+name = "tuya_manual"
+version = "1.0.0"
+description = "Manual Tuya Integration for Home Assistant"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+aiohttp = "*"
+async_timeout = "*"
+homeassistant = "*"

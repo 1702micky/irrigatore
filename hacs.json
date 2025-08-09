@@ -1,0 +1,15 @@
+
+{
+  "name": "Tuya Manual",
+  "content_in_root": false,
+  "domains": ["sensor", "switch"],
+  "homeassistant": "2023.9.0",
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "zip_release": true,
+  "full_name": "tuya_manual",
+  "render_readme": true,
+  "changelog": "Initial release",
+  "description": "Manual integration for unsupported Tuya devices via official API.",
+  "tags": ["tuya", "sensor", "switch", "iot"]
+}
