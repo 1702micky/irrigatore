@@ -1,8 +1,0 @@
-{
-  "domain": "tuya_manual",
-  "name": "Tuya Manual Integration",
-  "version": "1.0",
-  "requirements": ["aiohttp", "async_timeout"],
-  "iot_class": "cloud_polling",
-  "codeowners": []
-}
